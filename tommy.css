@@ -2,13 +2,16 @@
   margin-left: auto;
   margin-right: auto;
   width: 70%;}
+
 #buttons {margin: auto;
   background-color: #9932CC;
   width: 70%;}
+
 h2 {text-align: center;}
+
 p {text-align: left;
    margin-left: 20%;
    margin-right: 20%;
    font-size: 23px;}
-#mepics {margin-left:20%;
-         margin-right:20%;}
+
+#mepics {width: 60%;}

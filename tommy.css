@@ -18,4 +18,5 @@ p {text-align: left;
 
 body {background-color: #DCDCDC;}
 
-script {margin: auto;}
+script {margin-left: auto;
+        margin-right: auto;}
